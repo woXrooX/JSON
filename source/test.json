@@ -1,0 +1,10 @@
+{
+  "num": -5.46455,
+  "str": "Some Text 2",
+  "arr": [1, 2, -3, true, [4, 5], "a \"and j", "b"],
+  "obj": {
+    "child": false
+  },
+  "age": null,
+  "married": false
+}
