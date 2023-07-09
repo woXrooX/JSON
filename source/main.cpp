@@ -23,7 +23,7 @@ int main(){
   // std::cout << "\nSize: " << sizeof(j) << '\n';
 
 
-  woXrooX::Tokenizer t("test.json");
+  woXrooX::Tokenizer t("./source/test.json");
 
   return 0;
 
